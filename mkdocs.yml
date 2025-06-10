@@ -110,6 +110,7 @@ markdown_extensions:
 nav:
   - Minimal Metta: minimal-metta.md
   - Architecture Documentation:
+    - Documentation Summary: documentation-summary.md
     - System Overview: architecture.md
     - Module System: module-system.md
     - Space & Tokenizer: space-tokenizer.md
