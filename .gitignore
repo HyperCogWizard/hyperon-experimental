@@ -21,3 +21,4 @@ CMakeUserPresets.json
 /python/*.dylib
 /python/wheelhouse
 /python/hyperon/_version.py
+./site/
